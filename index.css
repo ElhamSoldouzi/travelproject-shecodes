@@ -235,3 +235,11 @@ footer a {
     aspect-ratio: 16 / 9;
   }
 }
+
+.extra {
+  margin-top: 15px;
+}
+
+.gallery h3 {
+  margin-bottom: 15px;
+}
